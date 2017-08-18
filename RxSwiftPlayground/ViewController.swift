@@ -1,7 +1,7 @@
 //
 //  ViewController.swift
 //  RxSwiftPlayground
-//
+//  https://www.youtube.com/watch?v=W3zGx4TUaCE
 //  Created by Mahmoud Hamad on 8/14/17.
 //  Copyright © 2017 Mahmoud SMGL. All rights reserved.
 //
